@@ -9,7 +9,6 @@ import static java.awt.Color.BLACK;
 import static java.awt.Color.GREEN;
 import static java.awt.Color.WHITE;
 import java.util.Random;
-import java.lang.*;
 
 /**
  *
